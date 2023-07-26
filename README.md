@@ -12,3 +12,18 @@ Features
 - Customizable Preprocessing Pipelines: Tailor your preprocessing pipeline to your specific project requirements, creating efficient and personalized data preparation steps.
 
 - Interactive Mode: Choose between interactive mode or batch processing, providing flexibility to process data interactively or automate the preprocessing process.
+
+
+ML Preprocessor CLI simplifies your data preprocessing tasks for machine learning by offering a variety of efficient and customizable steps. The key preprocessing steps supported by the CLI are:
+
+- Cleaning Data: Easily remove duplicate records and handle missing values, ensuring your dataset is clean and ready for analysis.
+
+- Feature Scaling: Apply standardization or normalization to scale numerical features, bringing them to a common scale for better model performance.
+
+- Encoding Categorical Variables: Encode categorical data using one-hot encoding or label encoding, making it suitable for machine learning algorithms that require numerical inputs.
+
+- Feature Engineering: Create new features or modify existing ones to extract more meaningful information from your data, potentially improving model accuracy.
+
+- Data Transformation: Transform data using various techniques like PCA (Principal Component Analysis) or other dimensionality reduction methods to reduce feature space and enhance model efficiency.
+
+- Data Splitting: Split your dataset into training and testing sets, enabling you to evaluate your model's performance accurately.
